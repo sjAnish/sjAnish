@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)]
+[![MasterHead](https://user-images.githubusercontent.com/65373279/148280039-301b677b-74e7-49f8-af75-15e7c9253d74.png)](https://sjanish.io)
 <h1 align="center">Hi 👋, I'm Anish</h1>
 <h3 align="center">B.tech undergrad, software Engineer, Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web development**
 
-- 📫 reach out at **anishask099@gmail.com**
+- 📫 reach out me at **anishask099@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
